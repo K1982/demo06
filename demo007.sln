@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp", "FirstApp\FirstA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarCalculator", "CarCalculator\CarCalculator.csproj", "{781B2681-332A-47D9-A6DF-2A074E31455D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2_Money", "T2_Money\T2_Money.csproj", "{FEFE165E-0884-44E5-AF85-13ED05DBCC0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T3_Window", "T2_Money\T3_Window.csproj", "{FEFE165E-0884-44E5-AF85-13ED05DBCC0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
